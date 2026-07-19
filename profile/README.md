@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://www.idenauth.com/logo.svg" alt="Idenauth" width="120" />
+<img src="idenauth-logo.png" alt="Idenauth" width="120" />
 
-# Idenauth
+# Verificación de Identidad KYC para LATAM
 
-### Infraestructura de identidad (KYC) para LATAM
+### Plataforma B2B que centraliza verificaciones de identidad (KYC), cumplimiento AML y debida diligencia en una sola API para el mercado latinoamericano.
 
 [![Website](https://img.shields.io/badge/website-www.idenauth.com-18c964?style=flat-square)](https://www.idenauth.com)
 [![Cobertura](https://img.shields.io/badge/cobertura-5%20pa%C3%ADses-18c964?style=flat-square)](https://www.idenauth.com)
@@ -27,38 +27,6 @@
 </ul>
 
 Para solicitar soporte, visita [www.idenauth.com/faq](https://www.idenauth.com/faq) o contáctanos en [www.idenauth.com/#solicitar-acceso](https://www.idenauth.com/#solicitar-acceso).
-
----
-
-## Repos de Idenauth
-
-### Plataforma KYC (Privado)
-
-Backend Fastify + Prisma + TypeScript. Servidor de verificación de identidad, lógica de base de datos, integración con Veriff, webhooks y panel interno.
-
-<ul>
-    <li><a href="https://github.com/idenauth/idenauth-backend">idenauth-backend</a> — Backend privado (Fastify + Prisma + TS)
-</ul>
-
-### SDK React (Público)
-
-SDK para que desarrolladores externos integren verificación KYC de Idenauth en sus aplicaciones React.
-
-<ul>
-    <li><a href="https://github.com/idenauth/idenauth-react-sdk">@idenauth/react-sdk</a> — Componentes, hooks y cliente API
-</ul>
-
-```bash
-npm install @idenauth/react-sdk
-```
-
-### Ejemplos (Público)
-
-Proyecto mínimo React + Vite que demuestra cómo integrar el SDK en 5 minutos.
-
-<ul>
-    <li><a href="https://github.com/idenauth/idenauth-examples">idenauth-examples</a> — App de ejemplo con formulario KYC y captura móvil
-</ul>
 
 ---
 
@@ -115,14 +83,6 @@ Cliente → API REST → Orquestador → Fuentes oficiales (5 países)
 
 ---
 
-## Contribuir
-
-¡Las contribuciones de código son bienvenidas! Por favor envía tus Pull Requests contra la rama `main`.
-
-Las auditorías de seguridad y feedback son bienvenidos. Puedes abrir un issue o escribirnos privadamente si el reporte es sensible en naturaleza.
-
----
-
 ## Enlaces
 
 - 🌐 **Sitio web**: [www.idenauth.com](https://www.idenauth.com)
@@ -130,8 +90,6 @@ Las auditorías de seguridad y feedback son bienvenidos. Puedes abrir un issue o
 - ⚖️ **Legal**: legal@idenauth.com
 - 📝 **Blog**: [www.idenauth.com/blog](https://www.idenauth.com/blog)
 - ❓ **FAQ**: [www.idenauth.com/faq](https://www.idenauth.com/faq)
-- 📦 **SDK**: [@idenauth/react-sdk](https://github.com/idenauth/idenauth-react-sdk)
-- 🚀 **Ejemplos**: [idenauth-examples](https://github.com/idenauth/idenauth-examples)
 
 ---
 
