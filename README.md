@@ -1,6 +1,5 @@
 <div align="center">
 
-# Idenauth
 
 ### Infraestructura de identidad (KYC) para LATAM
 
