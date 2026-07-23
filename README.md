@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="idenauth-logo-transparent.png" alt="Idenauth" width="120" />
+<img public="idenauth-logo-transparent.png" alt="Idenauth" width="120" />
 
 # Verificación de Identidad KYC para LATAM
 
