@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://www.idenauth.com/logo.svg" alt="Idenauth" width="120" />
-
 # Idenauth
 
 ### Infraestructura de identidad (KYC) para LATAM
